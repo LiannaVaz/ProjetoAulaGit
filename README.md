@@ -1,2 +1,2 @@
 # ProjetoAulaGit
-Projeto de demonstração
+Projeto de demonstração para aula
